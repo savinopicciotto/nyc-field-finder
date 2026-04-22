@@ -6,7 +6,7 @@ color-coded by day.
 
 Built as a take-home exercise for M-Flat, Inc. (On-Site AI Consultant role).
 
-**Live demo:** _see repository description_
+**Live demo:** [nyc-field-finder.vercel.app](https://nyc-field-finder.vercel.app)
 **Try locally:** `npm install && npm run dev` → [localhost:3000](http://localhost:3000)
 
 ---
